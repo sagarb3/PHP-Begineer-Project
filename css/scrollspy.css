@@ -1,0 +1,10 @@
+li.active,
+li.active:hover, 
+li.active:focus  {
+	background:#3CC;
+}
+li.active a,
+li.active:hover a, 
+li:focus a  {
+	color: #366;
+}
